@@ -4,7 +4,7 @@ Mobile Developer
 ----------------  
 I am a passionate and experienced senior Flutter software developer with expertise in native iOS and embedded systems. Additionally, I have commercial experience in REST backend development. As a tech lead, I have managed the entire software production lifecycle, which includes presales and estimation, initial commits, MVP development, successful releases, maintenance, and application graceful shutdown. I prioritize user experience (UX) and developer experience (DX), maintain clean code and architecture, and adhere to best practices to deliver high-quality software solutions.  
 * 🌍  I'm based in Szczecin
-* 🚀  I'm currently working on [intive](http://https://www.intive.com)
+* 🚀  I'm currently working in [intive](http://https://www.intive.com)
 
 ### Skills  
 
